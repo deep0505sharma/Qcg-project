@@ -112,7 +112,7 @@ The final Grover circuit in (.png) type file
 
 ### 3. Counts of the State
 The counts of all the possible states, used to print histogram, is present in ***counts.txt*** file in the project directory.
-[Counts]()
+[Link_to_Counts.txt_file](counts.txt)
 
 ### 4. Histogram
 The histogram of the frequency of all the states is also included. It is calculated using the counts, which are measured by running the circuit on a Qasm Simulator.

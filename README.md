@@ -41,7 +41,6 @@ Help Frank calculate all the possible combinations using Grover’s algorithm.
 - Final Grover circuit drawn in a image type file (.png)
 - The possible counts of all the states is measured by running the circuit on a Qasm Simulator and stored in counts.txt file.
 - The histogram of the frequency of all the states is also plotted.
-- [Add more features](#feature-request)...
 
 <a id="tech-stack"></a>
 ## 💻 Tech Stack / Dependencies
